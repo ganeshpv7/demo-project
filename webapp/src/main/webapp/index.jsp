@@ -96,8 +96,8 @@ cursor: pointer;
 <legend>Which service do you require?</legend>
 <p><label class="choice"> <input type="radio" name="service" required value="Uber"> Uber </label></p>
 <p><label class="choice"> <input type="radio" name="service" required value="Ola"> Ola </label></p>
-<p><label class="choice"> <input type="radio" name="service" required value="Zoom"> Zepto </label></p>
-<p><label class="choice"> <input type="radio" name="service" required value="Zoom"> Dunzo </label></p>
+<p><label class="choice"> <input type="radio" name="service" required value="Zepto"> Zepto </label></p>
+<p><label class="choice"> <input type="radio" name="service" required value="Dunzo"> Dunzo </label></p>
 </fieldset>
 
 <fieldset>
