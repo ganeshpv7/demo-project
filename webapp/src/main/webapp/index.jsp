@@ -91,7 +91,7 @@ cursor: pointer;
 <input type="email" name="email_address">
 </label>
 </p>
-
+<h>Sample website</h>
 <fieldset>
 <legend>Which service are you looking for?</legend>
 <p><label class="choice"> <input type="radio" name="service" required value="Uber"> Uber </label></p>
